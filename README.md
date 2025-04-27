@@ -18,7 +18,8 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
 • Download a .jpeg image from a trusted website or use own image.
 ![kali-linux-2024 4-vmware-amd64-2025-04-27-18-40-37](https://github.com/user-attachments/assets/8b00c28b-83a4-4224-b603-9e2b9a77f910)
 Create a text file named secret with a confidential message:
- ![Uploading kali-linux-2024.4-vmware-amd64-2025-04-27-18-40-37.png…]()
+ ![kali-linux-2024 4-vmware-amd64-2025-04-27-18-55-05](https://github.com/user-attachments/assets/4301d7e9-ecc4-487e-a389-41dbc2398fa0)
+
 # Step 2: Install and Verify Steghide Tool
 • To install Steghide on Kali linux,run:
 
