@@ -50,7 +50,9 @@ List of Images with Steganography Detection Scores and File Signature Details
 • Another command to see the same secret message is
 
 # Step 3: Retrieve Information About the Embedded Data
+
 • To gather details about embedded content in the image:
+
 ![image](https://github.com/user-attachments/assets/513a544a-b130-4c81-875d-7b007c39d5de)
 
 • This will display file type, size, and whether data is embedded.
